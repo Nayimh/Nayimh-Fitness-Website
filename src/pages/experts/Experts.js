@@ -17,8 +17,8 @@ const Experts = () => {
         <div id="trainer" className="my-5 pt-5 expert-section">
             <div className="heading w-75 mx-auto">
             <h2 className="mt-5">Our Trainer</h2>
-            <h4 className="text-white">We will create your personal training program and balance your diet so you could get the
-shape of your dream shortly!</h4>
+            <p className="text-white">We will create your personal training program and balance your diet so you could get the
+shape of your dream shortly!</p>
             </div>
             <div className=" container my-5">
                 {

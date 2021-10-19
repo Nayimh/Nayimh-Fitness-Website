@@ -1,4 +1,5 @@
 import React from 'react';
+import './Banner.css'
 import { Carousel } from 'react-bootstrap';
 import image1 from '../../../image/Banner/banner1.jpg'
 import image2 from '../../../image/Banner/banner2.jpg'
@@ -7,7 +8,7 @@ import image3 from '../../../image/Banner/banner 3.jpg'
 
 const Banner = () => {
     return (
-        <div className="home mb-5" id="home">
+        <div className="home mt-5 my-5" id="home">
         <Carousel>
   <Carousel.Item>
     <img

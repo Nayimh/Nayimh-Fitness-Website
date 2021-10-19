@@ -1,11 +1,26 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useHistory, useLocation } from 'react-router-dom';
 import useAuth from '../../../Hooks/useAuth';
 
 import './Login.css'
 
 const Login = () => {
     const { signInUsingGoogle, handleLogin, handleLoginPassword, handleLoginemail } = useAuth();
+
+  
+
+    const history = useHistory();
+    const location = useLocation();
+    const redirect_url = location?.state?.from || '/'
+ 
+    const handleGoogleSignIn = () => {
+        signInUsingGoogle()
+            .then(result => {
+                history.push(redirect_url);
+            })
+            
+    }
+
     return (
         <div className="loginContainer my-5 py-5">
             
@@ -27,7 +42,7 @@ const Login = () => {
                
                 <Link to="/register">New User?</Link>
                 <br /> <br />
-            <button onClick={signInUsingGoogle} className="sbutton">Google SignIn</button>
+            <button onClick={handleGoogleSignIn} className="sbutton">Google SignIn</button>
             <br />
             
             </div>
