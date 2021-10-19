@@ -1,0 +1,69 @@
+
+[
+    {
+        "id": 1,
+        "category": "Weight Lifting",
+        "description": "If you maximize your growth potential, you can see a difference in muscle within 2 weeks. Two weeks is not a lot of time to add significant muscle.",
+        "img": "https://i.ibb.co/r5y7HCk/service1.jpg",
+        "Price": 800
+    },
+{
+        "id": 2,
+        "category": "Bodybuilding",
+        "description": " It is distinct from similar activities such as powerlifting because it focuses on physical appearance instead of strength. ",
+        "img": "https://i.ibb.co/D43Tv2X/service2.jpg",
+        "Price": 900
+    },
+{
+        "id": 3,
+        "category": "Weekend Exercise",
+        "description": "Cramming all your recommended weekly exercise into one or two weekend sessions is enough to produce important health benefits. ",
+        "img": "https://i.ibb.co/YyYSpsy/service3.jpg",
+        "Price": 500
+    },
+{
+        "id": 4,
+        "category": "Flexibility Exercises",
+        "description": "Because stretching may aggravate an existing injury, if you're injured, you should consult an athletic trainer. ",
+        "img": "https://i.ibb.co/NpPRThc/service4.jpg",
+        "Price": 700
+    },
+{
+        "id": 5,
+        "category": "Strength Training",
+        "description": "Strength training, also called weight training or resistance training, is an important part of any fitness routine.",
+        "img": "https://i.ibb.co/Xb1mVsw/service5.jpg",
+        "Price": 800
+    },
+{
+        "id": 6,
+        "category": "Muscle Exercise",
+        "description": "The best way to build muscle is to perform compound exercises which recruit multiple muscle groups",
+        "img": "https://i.ibb.co/M7C8Zjr/service6.jpg",
+        "Price": 900
+    },
+{
+        "id": 7,
+        "category": "Yoga as exercise",
+        "description": "yoga does count as a strengthening exercise, and at least 2 sessions a week will help you meet the guidelines on muscle-strengthening activities.",
+        "img": "https://i.ibb.co/4JSdRXY/service7.jpg",
+        "Price": 750
+    },
+{
+        "id": 8,
+        "category": "Cardio Exercise",
+        "description": "Aerobic exercise is recommended by the American Heart Association and by most doctors to people with, or at risk for, heart disease.",
+	    "img": "https://i.ibb.co/173JTzx/service8.jpg",
+        "Price": 800
+    },
+{
+        "id": 9,
+        "category": "coordination exercises",
+        "description": "Coordination is what happens when you use two or more body parts at the same time to complete a task.",
+        "img": "https://i.ibb.co/TvVNgQR/service9.jpg",
+        "Price": 900
+    }
+    
+    
+
+]

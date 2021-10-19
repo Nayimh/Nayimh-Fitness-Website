@@ -1,0 +1,19 @@
+.bookingContainer{
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    margin-bottom: 8rem;
+}
+
+.detailCards{
+    height: 45rem;
+    width: 18rem;
+    border: 1px solid lightgray;
+    
+  
+}
+
+.detailsSection img{
+    height: 400px;
+    border-radius: 4px;
+}

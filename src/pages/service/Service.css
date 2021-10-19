@@ -1,0 +1,38 @@
+.serviceSection img{
+    height: 350px;
+    border-radius: 4px;
+}
+
+.sbutton{
+    border-style: none;
+    background-color: black;
+    color: white;
+    padding: 5px 2px;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    font-weight: 500;
+    transition: 0.5s ease-out;
+}
+
+.sbutton:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+
+.serviceSection{
+    margin: 30px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    height: 40rem;
+    box-shadow: 10px 20px 30px lightgray;
+    
+}
+.serviceSection:hover{
+    box-shadow: 10px 20px 30px;
+}
+
+.btn{
+    border-style: none;
+}
+

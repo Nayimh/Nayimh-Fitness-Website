@@ -1,0 +1,12 @@
+.notFound{
+    height: 100vh;
+    padding-top: 2rem;
+}
+
+
+
+
+.imgContainer img{
+    width: 100vw;
+    height: 80vh;
+}

@@ -1,0 +1,21 @@
+.footerConteiner{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-right: 50px;
+    
+}
+.footer{
+    background-color: rgb(31, 30, 30);
+    color: white;
+    text-align: start;
+}
+
+.info{
+    margin-right: 4rem;
+}
+
+.copyrright{
+    display: flex;
+    justify-content: center;
+}

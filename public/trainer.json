@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Carolina",
+        "category": "Flexibility Exercises",
+        "img": "https://i.ibb.co/2t9NJ0m/sule-makaroglu-YFmvj-O3-TP-s-unsplash.jpg",
+        "Price": 800
+    },
+{
+    "id": 2,
+    "name": "John",
+    "category": "Strength Training",
+    "img": "https://i.ibb.co/qDWPXzq/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "Price": 800
+    },
+{
+    "id": 1,
+    "name": "Donald",
+    "category": "Cardio Exercise",
+    "img": "https://i.ibb.co/kHxMMK5/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "Price": 800
+    }
+
+]

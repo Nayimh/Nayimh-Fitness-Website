@@ -1,0 +1,16 @@
+.registerConteiner{
+    height: 100vh;
+}
+
+.contactContainer{
+    
+    min-height: 100vh;
+    min-height: 100vh;
+    width: 60vw;
+    line-height: 30px;
+    letter-spacing: 2px;
+    margin: auto;
+    background-color: rgb(248, 253, 248);
+    padding: 30px;
+    border-radius: 10px;
+}
