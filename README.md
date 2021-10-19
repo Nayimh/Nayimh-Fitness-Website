@@ -3,6 +3,7 @@
 This project was created with bootstrapped with React, React Route and firebase authentication.
 
 Live Site Link:
+https://fitness-site-d759e.web.app
 
 
 This project is very basic and simple.
