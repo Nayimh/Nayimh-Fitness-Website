@@ -4,21 +4,21 @@
         "category": "3 Months",
         "description": "From BodyPump and Zumba to yoga and cycling, we have instructor-led group exercise classes for every BODY.",
         "img": "https://i.ibb.co/r5y7HCk/service1.jpg",
-        "Price": 800
+        "Price": 1800
     },
 {
         "id": 2,
         "category": "6 Months",
         "description": "Regardless of your experience level, our instructors will lead you through a workout that is right for YOU! ",
         "img": "https://i.ibb.co/D43Tv2X/service2.jpg",
-        "Price": 900
+        "Price": 2900
     },
 {
         "id": 3,
         "category": "1 Year",
         "description": "Our certified personal trainers create the perfect programs to help you reach your goals, designed 100% around you.",
         "img": "https://i.ibb.co/YyYSpsy/service3.jpg",
-        "Price": 500
+        "Price": 3500
     }
 
 ]

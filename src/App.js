@@ -16,6 +16,8 @@ import Register from './pages/Login/Signup/Register';
 import AuthProvider from './context/AuthProvider';
 import PrivateRoute from './pages/privateRoute/PrivateRoute';
 import DietPlan from './pages/DietPlan/DietPlan';
+import Experts from './pages/experts/Experts';
+
 
 
 
@@ -34,7 +36,9 @@ function App() {
           <PrivateRoute path="/booking/:serviceId">
           <Booking></Booking>
           </PrivateRoute>
-       
+            <Route path="/experts">
+              <Experts></Experts>
+          </Route>
           <PrivateRoute path="/aboutus">
             <AboutUs></AboutUs>
             </PrivateRoute>

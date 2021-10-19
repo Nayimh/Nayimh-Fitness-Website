@@ -15,10 +15,11 @@ const Header = () => {
   <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="me-auto">
                 <Nav.Link as={HashLink} to="/home#home">Home</Nav.Link>
-      <Nav.Link as={HashLink} to="/home#services">Services</Nav.Link>
-      <Nav.Link as={HashLink} to="/home#trainer">Trainer</Nav.Link>
+      {/* <Nav.Link as={HashLink} to="/home#services">Services</Nav.Link>
+      <Nav.Link as={HashLink} to="/home#trainer">Trainer</Nav.Link> */}
+      <Nav.Link as={HashLink} to="/experts">Our Trainer</Nav.Link>
       <Nav.Link as={HashLink} to="/tips">Tips</Nav.Link>
-      <Nav.Link as={HashLink} to="/home#contact">Contact Us</Nav.Link>
+      {/* <Nav.Link as={HashLink} to="/home#contact">Contact Us</Nav.Link> */}
       <Nav.Link as={HashLink} to="/aboutUs">About Us</Nav.Link>
  
     </Nav>

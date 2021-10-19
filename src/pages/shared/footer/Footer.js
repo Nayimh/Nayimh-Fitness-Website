@@ -3,7 +3,7 @@ import './Footer.css'
 
 const Footer = () => {
     return (
-        <div className=" mx-auto footer pt-3">
+        <div className=" mx-auto footer pt-5 mt-5">
             <div className="mx-auto footerConteiner">
             <div className="info">
             <h4>About Smart Fit</h4>

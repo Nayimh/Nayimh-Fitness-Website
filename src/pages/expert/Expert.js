@@ -9,7 +9,7 @@ const Expert = (props) => {
             <img className="w-100" src={img } alt="" />
             <h2>Name: {name}</h2>
             
-            <h4>Trainer at: {category}</h4>
+            <h4>Specialized at: {category}</h4>
             <p>montly Fee: ${Price}</p>
             <button className="sbutton w-50">Appointment</button>
             </div>

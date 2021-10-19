@@ -7,6 +7,7 @@ const AboutUs = () => {
             <h2 className="text-white">WHO WE ARE</h2>
             <h5 className="w-75 mx-auto text-white">Smart Fit courses and certifications are open to individuals and trainers seeking to improve their health and fitness through effective training and nutritional strategies.</h5>
             </div>
+            <h2>WorkOut Tutorial</h2>
             <div>
             <iframe  className="w-75 video" width="560" height="315" src="https://www.youtube.com/embed/ECxYJcnvyMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
