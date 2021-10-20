@@ -41,7 +41,12 @@ const Login = () => {
                 </form>
                
                 <Link to="/register">New User?</Link>
-                <br /> <br />
+                <br />
+                
+             
+                <div className="text-white">
+                    <hr />
+                </div>
             <button onClick={handleGoogleSignIn} className="sbutton">Google SignIn</button>
             <br />
             

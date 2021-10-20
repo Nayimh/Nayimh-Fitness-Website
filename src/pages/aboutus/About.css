@@ -1,6 +1,6 @@
 .aboutUsContainer{
     margin-top: 1rem;
-    height: 100vh;
+    min-height: 100vh;
     padding-top: 1rem;
 }
 .bg{
@@ -11,3 +11,4 @@
 .video{
     height: 70vh;
 }
+
